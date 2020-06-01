@@ -1,2 +1,2 @@
 # First-Git-Repo
-First repository created as an fr
+My first git repository created as front-end developer intern with HNG
